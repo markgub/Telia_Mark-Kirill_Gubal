@@ -1,0 +1,40 @@
+.slider{
+    position: relative;
+    top: 140px;
+    left: 0;
+    width: 100%;
+    font-size: 1em;
+    font-weight: 400;
+    margin: 0px;
+}
+
+.textContainer{
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    bottom: calc(3.55vw - 6.39px);
+    padding-bottom: 30px;
+    margin-left: 331.5px;
+    margin-right: 331.5px;
+}
+
+.textHeading{
+    font-size: calc(27.45455px + 1.81818vw);
+    font-family: Pebble, sans-serif;
+}
+
+.regularText{
+    font-family: Neue Helvetica W01,sans-serif;
+    font-size: 1.375rem;
+    line-height: 1.27;
+    display: block;
+    margin-block-start: 1.33em;
+    margin-block-end: 1.33em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    width: 600px;
+}

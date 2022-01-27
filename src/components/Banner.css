@@ -1,0 +1,36 @@
+.banner{
+    z-index: 100;
+    position: relative;
+    left: 18%;
+    top: 1000px;
+    width: 1180px;
+    height: 390px;
+}
+
+.banner-background{
+    position: absolute;
+}
+
+.banner-content{
+    position: absolute;
+}
+
+.banner-heading {
+    font-size: 1.125rem;
+    line-height: 1.33;
+}
+
+.price{
+    font-size: 2.25rem;
+    line-height: 1.11;
+}
+
+.kuumakse{
+    font-size: .875rem;
+    line-height: 1.43;
+}
+
+.month{
+    font-size: 1.375rem;
+    line-height: 1.27;
+}
